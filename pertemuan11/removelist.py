@@ -1,0 +1,12 @@
+L=[2,1,3,6,3,7,0]
+print('list awal',L)
+L.remove(2)
+print('hapus elemen pertama bernilai 2, L=',L)
+L.remove(3)
+print('hapus elemen pertama bernilai 3, L=',L)
+del(L[1])
+print('hapus elemen dengan indeks ke 1, L=',L)
+L.pop()
+print('hapus elemen terakhir,L=',L)
+L.remove(7)
+print('hapus elemen pertama bernilai 7, L=',L)

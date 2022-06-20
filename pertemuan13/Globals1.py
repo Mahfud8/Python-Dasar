@@ -1,0 +1,5 @@
+nilai=[]
+makul=[]
+nA=[]
+nH=[]
+nilai=[makul,nA,nH]

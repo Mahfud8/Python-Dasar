@@ -1,0 +1,10 @@
+s='I<3 cs'
+print(s)
+la=list(s)
+print(la)
+lb=s.split('<')
+print(lb)
+ja=''.join(la)
+print(ja)
+jb='_'.join(la)
+print(jb)
